@@ -10,7 +10,7 @@ while True:
         if x1 <= 0 or x1 > 8:
             print("Некорректное значение")
             logging.error("Incorrect number.")
-            continue
+        continue
         y1 = int(input("Введите y1: "))
         logging.info(f"Users input {y1}")
         if y1 <= 0 or y1 > 8:
