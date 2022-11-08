@@ -1,38 +1,87 @@
 INFO:root:User started program
+INFO:root:Users input 2
+INFO:root:User started program
 INFO:root:Users input 1
+INFO:root:User started program
+INFO:root:Users input 3
+INFO:root:User started program
+INFO:root:Users input 2
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:User started program
+INFO:root:Users input 2
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:User started program
+INFO:root:ValueError.
+INFO:root:User started program
+INFO:root:Users input 2
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:User started program
+INFO:root:Users input 3
+INFO:root:User started program
+INFO:root:Users input 2
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:User started program
+INFO:root:Users input 2
+INFO:root:User started program
+INFO:root:Users input 42
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:User started program
+INFO:root:Users input 22
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input 22
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input 42
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:Users input 2
+INFO:root:Users input 4
+INFO:root:Users input 2
+INFO:root:Users entered figure: 4
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
+INFO:root:User started program
+INFO:root:User started program
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:Users input 2
+INFO:root:Users input 1
+INFO:root:Users input 2
+INFO:root:Users entered figure: 3
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
+INFO:root:User started program
 INFO:root:Users input 2
 INFO:root:Users input 3
 INFO:root:Users input 4
-INFO:root:Users entered figure: 2
-INFO:root:Program printed to user.
+INFO:root:Users input 2
+INFO:root:Users entered figure: 4
 INFO:root:Program printed to user.
 INFO:root:Program printed to user.
 INFO:root:Programm ended
 INFO:root:User started program
-INFO:root:Users input 12
-ERROR:root:Incorrect number.
-INFO:root:User started program
-INFO:root:ValueError.
-INFO:root:Program printed to user.
-INFO:root:Program printed to user.
-INFO:root:Programm ended
-INFO:root:User started program
-INFO:root:Users input 21
-ERROR:root:Incorrect number.
-INFO:root:User started program
-INFO:root:Users input 2
+INFO:root:Users input 4
 INFO:root:Users input 2
 INFO:root:Users input 1
-INFO:root:Users input 23
+INFO:root:Users input 4
+INFO:root:Users entered figure: 5
 ERROR:root:Incorrect number.
 INFO:root:User started program
-INFO:root:Users input 34
-ERROR:root:Incorrect number.
-INFO:root:User started program
-INFO:root:Users input 21
-ERROR:root:Incorrect number.
-INFO:root:User started program
-INFO:root:Users input 21
-ERROR:root:Incorrect number.
-INFO:root:User started program
-INFO:root:Users input 1
